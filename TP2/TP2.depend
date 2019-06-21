@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1561161097 source:c:\users\delta\desktop\tp2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayEmployees.h"
+
+1560612044 c:\users\delta\desktop\tp2\employee.h
+
+1560611988 source:c:\users\delta\desktop\tp2\employee.c
+	<stdio.h>
+	<stdlib.h>
+	"Employee.h"
+
+1561160797 source:c:\users\delta\desktop\tp2\arrayemployees.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayEmployees.h"
+	"input.h"
+
+1561161124 c:\users\delta\desktop\tp2\arrayemployees.h
+
+1561159686 source:c:\users\delta\desktop\tp2\input.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	"input.h"
+
+1560288473 c:\users\delta\desktop\tp2\input.h
+
